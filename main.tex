@@ -1,0 +1,32 @@
+\documentclass[11pt]{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath, amssymb, setspace}
+\usepackage{hyperref}
+\title{Some Cool Plots}
+\author{Josh Sack}
+\begin{document}
+\maketitle 
+\listoffigures
+\begin{figure}
+    \centering 
+    \includegraphics[width=0.9\textwidth]{plots/county-results.png}
+    \caption{2016 Presidential Election Results by County}
+    \label{fig:2016-results}
+\end{figure}
+\begin{figure}
+    \centering
+    \includegraphics[width=0.9\textwidth]{plots/turnout.png}
+    \caption{Each County's Two Party Vote as a Percentage of its estimated population in the 2013-2017 American Community Survey}
+    \label{fig:turnout}
+\end{figure}
+\begin{figure}
+    \centering
+    \includegraphics[width=0.9\textwidth]{plots/raw-employment-plot.png}
+    \caption{The percent change in the number of employed workers in each County from Trump's inauguration to February 2020, the Month before the pandemic hit}
+\end{figure}
+\begin{figure}
+    \centering
+    \includegraphics[width=0.9\textwidth]{plots/relative-employment-plot.png}
+    \caption{The percent change in the number of employed workers in each county in Michigan minus the national percent change in the number of employed workers over the period from Trump's inauguration to February 2020}
+\end{figure}
+\end{document}
