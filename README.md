@@ -1,3 +1,8 @@
+# Accessing These Plots
+
+All of the maps and plots are contained in the `plots/` directory, however, it should be noted that the maps have no background.
+Therefore, they are all contained in the pdf [main.pdf](https://github.com/joshsack1/Interesting-Plots/blob/main/main.pdf), in which the list of figures should be hyperlinked.
+
 # FRED API Key
 
 Follow [this](https://fredaccount.stlouisfed.org/apikeys) link and get a FRED API Key
