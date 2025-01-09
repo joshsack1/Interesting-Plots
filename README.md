@@ -14,3 +14,8 @@ Go to the U.S. Census Bureau's [Developer Site](https://www.census.gov/developer
 This process should take a few minutes.
 
 This code is written with the idea that it is stored as the environment variable `CENSUS_API_KEY`
+
+# Social Security Data
+
+Social Security data by county comes from [here](https://www.ssa.gov/policy/docs/statcomps/ssi_sc/index.html)
+Data is 2020 and 2016 (because each table uses December of that year, and that is closer to January 2017 than December 2017 is)
