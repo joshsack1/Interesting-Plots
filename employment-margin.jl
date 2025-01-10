@@ -194,6 +194,7 @@ vline!([0], color = :black, label = "Zero", linestyle = :dash)
 #%% Save the figure
 savefig(pop_coefs, "plots/population-coefs.png")
 #%% Bayesian versions of the models
+Random.seed!(42)
 # ε is the wrong 
 @model function single_corr(y, X, β, ε)
     # Set the coefficient priors
