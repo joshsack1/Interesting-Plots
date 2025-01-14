@@ -15,6 +15,10 @@ This process should take a few minutes.
 
 This code is written with the idea that it is stored as the environment variable `CENSUS_API_KEY`
 
+# Housing Price Data
+Zillow's [public data](https://www.zillow.com/research/data/) can be accessed here.
+Data for the Atlanta plot comes from the **HOME VALUES** Time series.
+The data type is *ZHVI Single-Family Homes Time Series ($)* and the Geography is *ZIP Code*
 <!--# Social Security Data-->
 <!---->
 <!--Social Security data by county comes from [here](https://www.ssa.gov/policy/docs/statcomps/ssi_sc/index.html)-->
