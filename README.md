@@ -23,3 +23,8 @@ The data type is *ZHVI Single-Family Homes Time Series ($)* and the Geography is
 <!---->
 <!--Social Security data by county comes from [here](https://www.ssa.gov/policy/docs/statcomps/ssi_sc/index.html)-->
 <!--Data is 2020 and 2016 (because each table uses December of that year, and that is closer to January 2017 than December 2017 is)-->
+
+# Wisconsin Data
+
+[2024 Election Results](https://elections.wi.gov/wisconsin-county-election-websites)
+[Wisconsin Medicaid Data](https://www.forwardhealth.wi.gov/WIPortal/StaticContent/Member/caseloads/481-caseload.htm)
